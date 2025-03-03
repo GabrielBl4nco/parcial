@@ -1,0 +1,25 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package notas;
+
+import fnota.fnota;
+
+/**
+ *
+ * @author Administrador
+ */
+public class notas {
+    
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        fnota f = new fnota ();
+        f.setVisible(true);
+        // TODO code application logic here
+    }
+    
+}
